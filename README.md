@@ -25,9 +25,9 @@
 # 📚 Key points
 
 ### 📗 Python Basic
-        - Screenshot
-        - Explanations
-        - Exercises
+   - Screenshot
+   - Explanations
+   - Exercises
      
 ### 📘 Simples It scripts
    - Rename files
