@@ -54,3 +54,7 @@
         - Screenshot
         - Explanations
         - Exercises
+
+
+
+<img width="1536" height="1024" alt="Copilot_20260503_075559" src="https://github.com/user-attachments/assets/8698de7d-31c3-4d2a-8b80-9b80142dadea" />
