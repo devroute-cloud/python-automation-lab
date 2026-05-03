@@ -3,7 +3,7 @@
 
 # Topics
 
-- 1. Without a base, we don't automate  
+1. 📗 Without a base, we don't automate  
 - Variables
 - Strings
 - if / else
@@ -13,21 +13,23 @@
 - files (read/write)
 - basic error handling
 
-- 2. IT automate
+
+2. 📘 IT automate
 - Files and folders (os, pathlib, shutil)
 - Processes/commands (subprocess)
 - Logs / CSV
 - Basic Requests API
 
 
-# 📚Key points
 
-1. Python Basic
-   - Screenshot
-   - Explanations
-   - Exercises
+# 📚 Key points
+
+### 📗 Python Basic
+        - Screenshot
+        - Explanations
+        - Exercises
      
-2. Simples It scripts
+### 📘 Simples It scripts
    - Rename files
         - Screenshot
         - Explanations
